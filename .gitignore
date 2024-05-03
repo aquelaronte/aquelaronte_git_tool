@@ -1,0 +1,8 @@
+*.db
+*.py[cod]
+.idea/
+.vscode/
+.web
+__pycache__/
+env.py
+venv/
