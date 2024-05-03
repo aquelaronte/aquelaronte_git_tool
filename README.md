@@ -15,7 +15,11 @@ Key Features:
 
 - **Instant Preview:** Visualize how your README.md will look as you create it, enabling you to make adjustments on the fly to achieve the desired appearance.
 
-- **Easy Export:** Once you're satisfied with your README.md, QuickMD allows you to export it directly to your GitHub repository or another platform hassle-free. With QuickMD, creating attractive and functional README.md files has never been quicker and simpler. Give your projects the presentation they deserve with AGTool!# guides 
+- **Easy Export:** Once you're satisfied with your README.md, QuickMD allows you to export it directly to your GitHub repository or another platform hassle-free. With QuickMD, creating attractive and functional README.md files has never been quicker and simpler. Give your projects the presentation they deserve with AGTool!# guides
+
+## Tutorial
+
+[![AGTool tutorial](https://img.youtube.com/vi/sJp-ImEA9xM/mqdefault.jpg)](https://www.youtube.com/watch?v=sJp-ImEA9xM)
 
 ## Installation
 
